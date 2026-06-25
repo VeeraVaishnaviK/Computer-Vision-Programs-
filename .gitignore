@@ -1,0 +1,14 @@
+# Temporary scripts
+runner.py
+cv2_mock.py
+run_all.py
+generate_readme.py
+git_push_in_order.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local system files
+.DS_Store
+Thumbs.db
